@@ -18,7 +18,7 @@
     "cookie-parser": "1.4.6",
 
     "crc": "4.1.1",
-    "debug": "4.3.2",
+    "debug": "4.3.4",
     "depd": "2.0.0",
     "express-session": "1.17.3",
     "on-headers": "1.0.2",
